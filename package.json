@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "python3 scripts/generate_site.py",
+    "test:links": "python3 scripts/check_links.py",
+    "test:content": "python3 scripts/check_content.py",
+    "review:final": "python3 scripts/review_final.py"
+  },
+  "devDependencies": {}
+}

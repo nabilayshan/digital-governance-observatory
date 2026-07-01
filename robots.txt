@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /digital-governance-observatory/
+Sitemap: https://nabilayshan.github.io/digital-governance-observatory/sitemap.xml
