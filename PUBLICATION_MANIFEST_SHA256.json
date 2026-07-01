@@ -1,0 +1,293 @@
+{
+  "created_utc": "2026-07-01T00:12:29Z",
+  "version": "v1.0.0",
+  "commit_hash_at_manifest_creation": "5f45049e616f4d68360b66e21e34cd8b426cc1e3",
+  "notice": "This manifest documents the publication package hash set only; it is not evidence of trademark ownership.",
+  "base_path": "/digital-governance-observatory",
+  "files": [
+    {
+      "path": ".github/workflows/pages.yml",
+      "sha256": "9c4716930ba15e19b7a3351679d99eedbbccd0f86e82df15154a5a7154b735c5"
+    },
+    {
+      "path": ".well-known/security.txt",
+      "sha256": "1d4d507e85bab9b46599ff68338f345792be2bc36513a36d60dd646a8fd7e19d"
+    },
+    {
+      "path": "404/index.html",
+      "sha256": "f8bba8b9179cf5bcfe3a9529a926731d28859a154d63c3090a3e0b826c123cf3"
+    },
+    {
+      "path": "AUTHORS.md",
+      "sha256": "c1a6fa34e8b9907cc8542251b16bbd706708d9f601547771c0100fb9f8686243"
+    },
+    {
+      "path": "BRAND_SCREENING_NOTES.md",
+      "sha256": "e4e2d4ec12f8816f8a904984f0b35dd1dc81080c976dd8bd10526b94788460ff"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "56281122c2d342a890c42df7c10af44e055fc76beb8b2067a3bede94ef7cf2fb"
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "a850e422d1b6da3c55b231402069005dc5b4349d4ae7f41923599670f84e0a4d"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "bc3299c3ca38c58e94c343b2f784168dba42ccd681c99532c2e5f46c07cd16d9"
+    },
+    {
+      "path": "PROJECT_HISTORY.md",
+      "sha256": "22ba57a9067f9fbb2b578ed448c96d09c5d282e899cdd14601fa4d37db3513ef"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c82d6538740e3133bfbe690ab8f7a65c177fa5a42aab18bf871824dbea42a766"
+    },
+    {
+      "path": "SOURCES.md",
+      "sha256": "c0e0c9530ef1bab5017f4ee1891118bedab84ec27f1c0088a39a39c824c033f6"
+    },
+    {
+      "path": "_headers",
+      "sha256": "2a74ca92d3afd4ddb595099eee4da7b6dfd06e188b623b9b3586ae27c68ddfa1"
+    },
+    {
+      "path": "about/index.html",
+      "sha256": "35d2bbf48cabedd3e0e29d5147b4ffce742663b51d75a8587d6ce5537f396158"
+    },
+    {
+      "path": "ar/about/index.html",
+      "sha256": "c5df74fcdb6f2035906e62bb8ead27203de9f2c1204ff99c1ee413b0603a1ca2"
+    },
+    {
+      "path": "ar/contact/index.html",
+      "sha256": "35903106cd1c702248341974b24ccf111b3d47351f587a025a7a0e6192929244"
+    },
+    {
+      "path": "ar/disclaimer/index.html",
+      "sha256": "290f6088ffc114be8bf25c239bb855ea564eb62ffa62c02ad265033ad810d501"
+    },
+    {
+      "path": "ar/history/index.html",
+      "sha256": "953ed4ad2d7fd48594262d73a7196c7fba5b739076004b01fcdcf2e44f5af982"
+    },
+    {
+      "path": "ar/index.html",
+      "sha256": "232de24c97a4b63cdd641d07ff2b91c0e46778e066fe37bc140615577542e738"
+    },
+    {
+      "path": "ar/privacy/index.html",
+      "sha256": "30037e364b5d571319b9fad1087dae4d0e499ca39fdbf890afa7c610c6c9fc97"
+    },
+    {
+      "path": "ar/projects/agentconsent/index.html",
+      "sha256": "6819e4e9a0230e87fbec6612ecd6cb30075e398c2cd208dd2ad7a4e0a6d1e331"
+    },
+    {
+      "path": "ar/projects/gulfauth/index.html",
+      "sha256": "b786606e0ee2d2848fa9135b15b18477c5e8ac8ba444d649e4a9cbafe7c86439"
+    },
+    {
+      "path": "ar/projects/gulfcompute/index.html",
+      "sha256": "e0808c21edeecb7e20a333f6f5af99921d6933123fdbf3c71ab5b168615c9dc8"
+    },
+    {
+      "path": "ar/projects/gulfkyc/index.html",
+      "sha256": "bc7a8ffce76bc03c7ecbe32f3e4ea3c3e1c6f58b9f9c415f89b9c165fac6e977"
+    },
+    {
+      "path": "ar/projects/index.html",
+      "sha256": "0b8b9e77747098b8830ea138cc61c9cb4a517fe0136008faf5e58c532cb9c43a"
+    },
+    {
+      "path": "ar/projects/machineconsent/index.html",
+      "sha256": "8e706381b4cc146b37368f0e49782fed19a8a34ed0a2764fb7e9e930a53258f0"
+    },
+    {
+      "path": "ar/research/energy-cooling-sovereign-compute/index.html",
+      "sha256": "62321e76d3f90d4b98c85f1619f8182e4f7d4cf01a0a04f7728d7650156d6492"
+    },
+    {
+      "path": "ar/research/human-consent-records/index.html",
+      "sha256": "40354709e898532405b6b15ff6a0ac18e4054c81b69e83ff93afa933aa778810"
+    },
+    {
+      "path": "ar/research/human-oversight-autonomous-machines/index.html",
+      "sha256": "f0918b5fa90a66a5107bb2a2896d6f01ae4aa23f8473cf45fc9e95d21fa30979"
+    },
+    {
+      "path": "ar/research/identity-federation-regional-services/index.html",
+      "sha256": "73d5af10a631efcd8ead47a3692a3f365495708ec5a94ccbfb647e955a21df78"
+    },
+    {
+      "path": "ar/research/index.html",
+      "sha256": "f478d228663c95ed26052ff508b769fcac6ddc78c782df0d6cf10b2ea2533d7a"
+    },
+    {
+      "path": "ar/research/kyc-kyb-aml-overview/index.html",
+      "sha256": "cf810ecb7dc1dcfb03f2147ee268f1cd72c31ac603ddf0f8cf3ed5d644d47720"
+    },
+    {
+      "path": "ar/research/mapping-gulf-ai-compute/index.html",
+      "sha256": "9cc2d1eb517f5f760eb5c12755b1542c916cc5212ea35c58667f5706735f3dfa"
+    },
+    {
+      "path": "ar/research/passkeys-passwordless-gulf/index.html",
+      "sha256": "f373284bb7a860da3c366218402c75e892787cf0970034002daf5670af4a2193"
+    },
+    {
+      "path": "ar/research/privacy-preserving-onboarding/index.html",
+      "sha256": "1addb5a5eedff52791712b74a3766929a9e0d8071c12ca4160f881a444684c3d"
+    },
+    {
+      "path": "ar/research/revocable-authorization/index.html",
+      "sha256": "30f4a74be79b35f6d285cfceedcfa6d3761accfed0a7b1bf64de8223172dbe59"
+    },
+    {
+      "path": "ar/research/safe-revocation-emergency-stop/index.html",
+      "sha256": "cb05828cd3f41e17316a9bb3fd507d3db86eb8ad36f395f4e5b54b7a4f932f19"
+    },
+    {
+      "path": "ar/sources/index.html",
+      "sha256": "714f36e7293719925b11692b977fff8f647042a9ed4d416edfed9b8e16ef7e9f"
+    },
+    {
+      "path": "ar/terms/index.html",
+      "sha256": "ceaa745679e2e056f3650c08d38bb06bbf25638fa732c7b4d50b77cc8e764408"
+    },
+    {
+      "path": "assets/styles.css",
+      "sha256": "dba6b8d02cc4ad3c61c0d4a1e8e83a3737b2281ee82586e3015793bef1a8a77e"
+    },
+    {
+      "path": "contact/index.html",
+      "sha256": "41df94a15a16e7a95b82dae673df3c65ead7d1376b35cafc9802bd3d29094f40"
+    },
+    {
+      "path": "disclaimer/index.html",
+      "sha256": "212f331a392fc935630c878439de3128c63222334a108fc65fc4b6f52c9bc40c"
+    },
+    {
+      "path": "feed.xml",
+      "sha256": "e1bc6f8536bf30c53aa39d292b304f0439a0b94e9ba1d6b892a2cb04d68042d0"
+    },
+    {
+      "path": "history/index.html",
+      "sha256": "8df82a7448b271b72a00dbba90d2e76b61d94744bfaa66410a9b26768d3b6e54"
+    },
+    {
+      "path": "index.html",
+      "sha256": "9b4c97a129da936c194a4e911403c5011c7713cce1d27ad5293b51b38b07ca5a"
+    },
+    {
+      "path": "package.json",
+      "sha256": "056de4e62acfdbec9719b2f18180dc92459811c9dc0745fb9dc5ea3f0eeba60b"
+    },
+    {
+      "path": "privacy/index.html",
+      "sha256": "a523defeb3ebf4c05bd080f55415bfcd7379eb4ba962fa7aca79e181a4c40f5f"
+    },
+    {
+      "path": "projects/agentconsent/index.html",
+      "sha256": "c901df2805bba46e749c3f96812346da9855ac179cf70b1aa4f11e3d7fb06d04"
+    },
+    {
+      "path": "projects/gulfauth/index.html",
+      "sha256": "01766ac05d4f0195fd8afc735c9697b1bcc81053237cb8e60ca929a827d3e26d"
+    },
+    {
+      "path": "projects/gulfcompute/index.html",
+      "sha256": "05086660689b0d7d23be359e07cff49d49c55fb61eeabd74cb86717876864437"
+    },
+    {
+      "path": "projects/gulfkyc/index.html",
+      "sha256": "9f33af0388cd3d635f0430752e4c5c156440cd939a8ba51e05088df7a243ddea"
+    },
+    {
+      "path": "projects/index.html",
+      "sha256": "a5726cf9c9098aba87155a0736d655d396ea40cdfbaa323a1f1fadd424befe80"
+    },
+    {
+      "path": "projects/machineconsent/index.html",
+      "sha256": "3c4eaf18149c2beb82ff1afc64cbfab598816c4308ae38d601dbb3bc05a7d8cc"
+    },
+    {
+      "path": "research/energy-cooling-sovereign-compute/index.html",
+      "sha256": "63c773a5cffac3674e83c9a441eb83a882403081312245323a7054a9c4d159a2"
+    },
+    {
+      "path": "research/human-consent-records/index.html",
+      "sha256": "b552cd65ddb0ffdb84d30acfacd3b1e57e8fe1516a35bceabf2ec1c3edd69032"
+    },
+    {
+      "path": "research/human-oversight-autonomous-machines/index.html",
+      "sha256": "4f0d1fc7799c8d44169a675d9cf4e14ab0d9b89726576db24fd55c253d5edb33"
+    },
+    {
+      "path": "research/identity-federation-regional-services/index.html",
+      "sha256": "788e7322f620f513eaba4ccd8cfb92ad021a6b31a4739650798995ecfe9231f3"
+    },
+    {
+      "path": "research/index.html",
+      "sha256": "10bad123b65c8c52b6796d6b271ddddd4ff129a9b8c598495aaed9ac54e55273"
+    },
+    {
+      "path": "research/kyc-kyb-aml-overview/index.html",
+      "sha256": "650467fabaeb6d3cbc81acc8decbec1220c4dd5af900e4291caecfa42b0c96f7"
+    },
+    {
+      "path": "research/mapping-gulf-ai-compute/index.html",
+      "sha256": "274db7c877aadb1ef461a1635b41fc0a4b0121458d2900df88928c5331026014"
+    },
+    {
+      "path": "research/passkeys-passwordless-gulf/index.html",
+      "sha256": "b2625308f6973ebc280a1ac731a1144f9d4be43c75306b52e36e4b2f98365045"
+    },
+    {
+      "path": "research/privacy-preserving-onboarding/index.html",
+      "sha256": "5cfe5f9db8baca8596ce935a3b15f83a52bc7825bd2033581c816cf4d58738bc"
+    },
+    {
+      "path": "research/revocable-authorization/index.html",
+      "sha256": "48d2899d55bc9217f88327a7d4f253795f1062914dcd0c8aa6ddf2e89ff0b249"
+    },
+    {
+      "path": "research/safe-revocation-emergency-stop/index.html",
+      "sha256": "0154782e5817d44f7d3e5c85e45ca1e631fa3fb8dd96e03fdee15bbbb019bacb"
+    },
+    {
+      "path": "robots.txt",
+      "sha256": "a688219c71be9ad1eb1787ad1fd3de20e9a757658418cba3ba9358ebcba81f40"
+    },
+    {
+      "path": "scripts/check_content.py",
+      "sha256": "941e9cd8e9e2b98e50ef12c27186af973dffe0794dc7d4294438778e1e6cb26d"
+    },
+    {
+      "path": "scripts/check_links.py",
+      "sha256": "4773c2212ae99f0b360bb9fc12c63232938b46e2a3b1474ace26271a904bda14"
+    },
+    {
+      "path": "scripts/generate_site.py",
+      "sha256": "3a082399797ff44a02776b05fb8a569e693aaf0811f65d11d7d6f48c8751005f"
+    },
+    {
+      "path": "scripts/review_final.py",
+      "sha256": "99a4d6f13e1e71b30873bbd302f6359d0412259cd4a7ce90de83c02c05133748"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "a12201e67c2467450b72a294f07108c5da478bf2ce5f54eddd879b1b29659a42"
+    },
+    {
+      "path": "sources/index.html",
+      "sha256": "c820b4766d819c048e7f8ddd8398774bd425f5191cc06e381ba654f7a5224e98"
+    },
+    {
+      "path": "terms/index.html",
+      "sha256": "055f175707e2994889eec06336806e54f3a581cfccc83e1240fc511c4d55bb2a"
+    }
+  ]
+}
